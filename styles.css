@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #ff8800;
+    --laranja-claro: #FF862A;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #f8bb6ca9;
+    --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
 }
 
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/depositphotos_215058254-stock-photo-spring-light-green-blur-background.jpg');
+    background-image: url('img/4965007.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
